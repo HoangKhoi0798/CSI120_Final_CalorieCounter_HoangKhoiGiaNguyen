@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSI120_Final_CalorieCounter_HoangKhoiGiaNguyen", "CSI120_Final_CalorieCounter_HoangKhoiGiaNguyen.csproj", "{67CA3FDD-7DA5-4195-8E12-08CC430CD628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67CA3FDD-7DA5-4195-8E12-08CC430CD628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CA3FDD-7DA5-4195-8E12-08CC430CD628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CA3FDD-7DA5-4195-8E12-08CC430CD628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CA3FDD-7DA5-4195-8E12-08CC430CD628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F0C21DF-1610-467C-87D8-5633A1A8A9D2}
+	EndGlobalSection
+EndGlobal
